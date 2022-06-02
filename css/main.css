@@ -1,6 +1,6 @@
                                         html {
                                             background-color: #5f45bb;
-                                            background-image: linear-gradient(to bottom right, #189cac, #d054e4);
+                                            background-image: linear-gradient(top bottom right, #189cac, #d054e4);
                                             color: #fff;
                                             font-family: "Quicksand", sans-serif;
                                             font-size: 16px;
@@ -101,6 +101,7 @@
                                         .picture-shadow {
                                             border-radius: 290486px;
                                             background-image: radial-gradient(#000 0%, rgba(0, 0, 0, 0) 70%);
+                                            background-repeat: repeat-x;
                                             position: absolute;
                                             top: 39%;
                                             left: 820px;
